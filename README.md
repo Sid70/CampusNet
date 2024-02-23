@@ -7,7 +7,7 @@ CampusNet is a MERN-based social-media web application designed to facilitate co
 CampusNet was developed by:
 
 - [Siddhanta Choudhury](https://github.com/Sid70) ([LinkedIn](https://www.linkedin.com/in/siddhanta-choudhury-674869220/))
-- Aditya Sadangi ([LinkedIn](https://www.linkedin.com/in/aditya-sadangi-885943212/))
+- [Aditya Sadangi](https://github.com/Adityasadangi) ([LinkedIn](https://www.linkedin.com/in/aditya-sadangi-885943212/))
 
 
 ## Key Features
